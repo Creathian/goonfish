@@ -26,13 +26,11 @@
 /area/dmm_suite/clear_area)
 "g" = (
 /obj/item/toy/plush/small/bunny{
-	name = "Hop";
-	rand_pos = 0
+	name = "Hop"
 	},
 /obj/item/pen/crayon/random{
 	pixel_x = -6;
-	pixel_y = -5;
-	rand_pos = 0
+	pixel_y = -5
 	},
 /obj/stool/bench/green/auto,
 /obj/decal/cleanable/paper,
@@ -40,23 +38,23 @@
 /area/dmm_suite/clear_area)
 "m" = (
 /obj/item/toy/plush/small{
-	name = "Doctor Isabear";
-	rand_pos = 0
+	name = "Doctor Isabear"
 	},
 /obj/item/clothing/head/nursehat{
-	pixel_y = 11
+	pixel_y = 11;
+	rand_pos = 1
 	},
 /obj/stool/bench/blue/auto,
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
 /area/dmm_suite/clear_area)
 "n" = (
 /obj/item/toy/plush/small/buddy{
-	name = "D'aww Bringer";
-	rand_pos = 0
+	name = "D'aww Bringer"
 	},
 /obj/item/clothing/head/NTberet{
 	pixel_y = 7;
-	pixel_x = 1
+	pixel_x = 1;
+	rand_pos = 1
 	},
 /obj/stool/bench/red/auto,
 /turf/simulated/floor/carpet/blue,
@@ -64,11 +62,11 @@
 "t" = (
 /obj/item/toy/plush/small/singuloose{
 	pixel_y = -1;
-	name = "Singuloose the Engineer";
-	rand_pos = 0
+	name = "Singuloose the Engineer"
 	},
 /obj/item/clothing/head/helmet/hardhat{
-	pixel_y = 3
+	pixel_y = 3;
+	rand_pos = 1
 	},
 /obj/stool/bench/yellow/auto,
 /obj/decal/cleanable/oil,
@@ -105,7 +103,8 @@
 /obj/table/wood,
 /obj/item/folder{
 	pixel_x = 4;
-	pixel_y = 4
+	pixel_y = 4;
+	rand_pos = 1
 	},
 /obj/item/paper{
 	pixel_x = 4;
@@ -113,7 +112,8 @@
 	},
 /obj/item/paper{
 	pixel_x = 4;
-	pixel_y = 3
+	pixel_y = 3;
+	rand_pos = 1
 	},
 /obj/item/pen/pencil{
 	pixel_x = -3;
@@ -127,12 +127,12 @@
 	},
 /obj/item/toy/plush/small/bee/cute{
 	dir = 3;
-	name = "Captain Buzz";
-	rand_pos = 0
+	name = "Captain Buzz"
 	},
 /obj/item/clothing/head/fancy/captain{
 	pixel_x = -1;
-	pixel_y = 5
+	pixel_y = 5;
+	rand_pos = 1
 	},
 /turf/simulated/floor/carpet/blue/fancy/narrow/west,
 /area/dmm_suite/clear_area)
@@ -147,12 +147,12 @@
 /area/dmm_suite/clear_area)
 "T" = (
 /obj/item/toy/plush/small/monkey{
-	name = "Dr.Monke";
-	rand_pos = 0
+	name = "Dr.Monke"
 	},
 /obj/stool/bench/auto,
 /obj/item/reagent_containers/dropper{
-	pixel_y = -4
+	pixel_y = -4;
+	rand_pos = 1
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/south,
 /area/dmm_suite/clear_area)
