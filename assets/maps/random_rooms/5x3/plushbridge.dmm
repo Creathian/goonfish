@@ -31,6 +31,7 @@
 /obj/item/pen/crayon/random{
 	pixel_x = -6;
 	pixel_y = -5
+	rand_pos = 0
 	},
 /obj/stool/bench/green/auto,
 /obj/decal/cleanable/paper,
@@ -42,7 +43,7 @@
 	},
 /obj/item/clothing/head/nursehat{
 	pixel_y = 11;
-	rand_pos = 1
+	rand_pos = 0
 	},
 /obj/stool/bench/blue/auto,
 /turf/simulated/floor/carpet/blue/fancy/edge/north,
@@ -54,7 +55,7 @@
 /obj/item/clothing/head/NTberet{
 	pixel_y = 7;
 	pixel_x = 1;
-	rand_pos = 1
+	rand_pos = 0
 	},
 /obj/stool/bench/red/auto,
 /turf/simulated/floor/carpet/blue,
@@ -66,7 +67,7 @@
 	},
 /obj/item/clothing/head/helmet/hardhat{
 	pixel_y = 3;
-	rand_pos = 1
+	rand_pos = 0
 	},
 /obj/stool/bench/yellow/auto,
 /obj/decal/cleanable/oil,
@@ -104,16 +105,16 @@
 /obj/item/folder{
 	pixel_x = 4;
 	pixel_y = 4;
-	rand_pos = 1
+	rand_pos = 0
 	},
 /obj/item/paper{
 	pixel_x = 4;
-	pixel_y = 1
+	pixel_y = 0
 	},
 /obj/item/paper{
 	pixel_x = 4;
 	pixel_y = 3;
-	rand_pos = 1
+	rand_pos = 0
 	},
 /obj/item/pen/pencil{
 	pixel_x = -3;
@@ -132,7 +133,7 @@
 /obj/item/clothing/head/fancy/captain{
 	pixel_x = -1;
 	pixel_y = 5;
-	rand_pos = 1
+	rand_pos = 0
 	},
 /turf/simulated/floor/carpet/blue/fancy/narrow/west,
 /area/dmm_suite/clear_area)
@@ -152,7 +153,7 @@
 /obj/stool/bench/auto,
 /obj/item/reagent_containers/dropper{
 	pixel_y = -4;
-	rand_pos = 1
+	rand_pos = 0
 	},
 /turf/simulated/floor/carpet/blue/fancy/edge/south,
 /area/dmm_suite/clear_area)
