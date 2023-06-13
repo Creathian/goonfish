@@ -1,0 +1,15 @@
+"a" = (/obj/mob_spawn/corpse/human{spawn_type = /mob/living/carbon/human/normal/engineer; break_headset = 1; delete_id = 1; empty_bag = 1; color = "#e2e2e2"},/obj/item/storage/toolbox/mechanical/yellow_tools{pixel_y = 10; pixel_x = 5; spawn_contents = list(/obj/item/screwdriver/yellow,/obj/item/crowbar/yellow,/obj/item/wirecutters/yellow,/obj/item/disk/data/floppy/read_only/network_progs)},/obj/decal/cleanable/blood/drip/med,/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"c" = (/obj/decal/cleanable/robot_debris{pixel_y = 11},/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"m" = (/obj/decal/fakeobjects/cpucontroller{pixel_x = -16; name = "strange computer"; pixel_y = 2},/obj/overlay/simple_light/disco_lighting/oscillator{color_1 = "#000000"; color_2 = "#BB0B05"; pixel_y = -28},/turf/simulated/floor/circuit/vintage,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"r" = (/obj/decal/cleanable/oil/streak,/obj/item/raw_material/scrap_metal{pixel_y = 12; pixel_x = 7},/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"B" = (/obj/decal/cleanable/robot_debris/limb{pixel_x = -7; pixel_y = 23},/obj/decal/cleanable/dirt/dirt5,/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"D" = (/obj/decal/cleanable/dirt,/obj/item/circuitboard,/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"G" = (/obj/decal/cleanable/dirt/dirt3,/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"T" = (/obj/decal/cleanable/blood/gibs{pixel_x = -12; pixel_y = -8},/obj/decal/cleanable/ash{color = "#838383"},/obj/item/paper/thermal{info = "<center>i will not die</center>"; pixel_x = -10; pixel_y = 16},/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+"X" = (/obj/decal/cleanable/dirt/dirt3,/obj/item/cable_coil/yellow/cut{amount = 3; pixel_x = 1; pixel_y = 7},/obj/decal/fakeobjects/skeleton{layer = 2; pixel_y = 4; pixel_x = -3; desc = "The remains of a human. Their bones look scorched."; color = "#404040"; name = "burnt skeleton"},/turf/simulated/floor/industrial,/area/dmm_suite/clear_area{sound_fx_1 = 'sound/ambience/station/Station_Machinery_Computers1.ogg'})
+
+(1,1,1) = {"
+rGX
+cmB
+aTD
+"}
